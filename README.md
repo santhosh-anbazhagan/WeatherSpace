@@ -3,7 +3,11 @@
 Welcome to **Weather Space**, a Kotlin-based Android application that fetches live weather data based on your current location. Built using modern Android development libraries and best practices, this project demonstrates a robust architecture and clean code principles.
 
 ## Phone Screenshots
-
+<p float="center">
+    <img width="200" src="https://github.com/santhosh-anbazhagan/WeatherSpace/blob/master/app/src/main/java/com/alienspace/weatherspace/samples/Screenshot_1.png">
+    <img width="200" src="https://github.com/santhosh-anbazhagan/WeatherSpace/blob/master/app/src/main/java/com/alienspace/weatherspace/samples/Screenshot_2.png">
+    <img width="200" src="https://github.com/santhosh-anbazhagan/WeatherSpace/blob/master/app/src/main/java/com/alienspace/weatherspace/samples/Screenshot_3.png">
+</p>
 
 ## Features
 
